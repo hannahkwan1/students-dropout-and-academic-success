@@ -61,7 +61,7 @@ Data summary, checking missing values, mean, standard deviation, Pearson Correla
 Data summary, checking missing values, mean, standard deviation, visualizations
 
 3. Q1_Analysis_Coding.ipynb / Q1_Technical_Report_Final Results - 
-Classification reports, confusion matrices, logistic regression coefficients, Random Forest, visualizations
+Classification reports, confusion matrices, logistic regression coefficients, Random Forest, ROC-AUC score, Matthews Correlation Coefficients, visualizations
 
 4. Q2_Analysis_Coding.ipynb / Q2_Technical_Report_Final Results - 
 Classification reports, linear regression, feature importance scores, RMSE, visualizations
