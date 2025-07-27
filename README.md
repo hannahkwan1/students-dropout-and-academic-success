@@ -60,11 +60,11 @@ Data summary, checking missing values, mean, standard deviation, Pearson Correla
 2. Data Descriptions of "Data_Descriptions_Predict_Students'_Dropout_and_Academic_Success"-
 Data summary, checking missing values, mean, standard deviation, visualizations
 
-3. Q1_Analysis_Coding.ipynb-/ Q1_Technical_Report_Revised
+3. Q1_Analysis_Coding.ipynb / Q1_Technical_Report_Revised - 
 Classification reports, confusion matrices, logistic regression coefficients, Random Forest, visualizations
 
-4. Q2_Analysis_Coding.ipynb-/ Q2_Technical_Report_Revised
+4. Q2_Analysis_Coding.ipynb / Q2_Technical_Report_Revised - 
 Classification reports, linear regression, feature importance scores, RMSE, visualizations
 
-5. Q3 Analysis_Coding.ipynb-/ Q3_Technical_Report_Revised
+5. Q3 Analysis_Coding.ipynb / Q3_Technical_Report_Revised - 
 SMOTE, oversampling, undersampling, logistic regression models, classification reports, visualization
