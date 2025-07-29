@@ -30,7 +30,7 @@ Addressed class imbalance with techniques like SMOTE, undersampling, and oversam
 
 Built a Logistic Regression model to predict student dropout.
 
-Evaluated model performance using classification metrics (accuracy, precision, recall, F1-score) and confusion matrices.
+Evaluated model performance using classification metrics (accuracy, precision, recall, F1-score), ROC-AUC score, Matthews Correlation Coefficients, and confusion matrices.
 
 Trained a Random Forest classifier to identify important features influencing dropout and graduation outcomes.
 
